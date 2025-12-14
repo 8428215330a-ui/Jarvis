@@ -1,0 +1,9 @@
+{
+  "name": "J.A.R.V.I.S. Access",
+  "description": "An AI-powered accessibility assistant providing visual, auditory, and sign language interpretation using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
